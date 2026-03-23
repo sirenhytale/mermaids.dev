@@ -12,7 +12,7 @@ Hello, I am Siren--creator of Mermaids mod--a Hytale developer. A couple of mont
 
 #### Socials:
 
-[Curseforge](/curseforge/) - [Discord](/discord/) - [YouTube](/youtube/)
+[Curseforge] - [Discord] - [YouTube] - [Github]
 
 * * *
 
@@ -21,3 +21,8 @@ Hello, I am Siren--creator of Mermaids mod--a Hytale developer. A couple of mont
 You can use my Hytale Creator Code at checkout: <strong>SIREN</strong>
 
 ![Use Creator Code SIREN](/assets/images/utils/mermaids_creatorcode.png "Use Creator Code SIREN")
+
+[Curseforge]: /curseforge/
+[Discord]: /discord/
+[YouTube]: /youtube/
+[Github]: /github/

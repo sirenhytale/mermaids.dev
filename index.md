@@ -24,7 +24,7 @@ nav_order: 1
 
 <br/>
 
-[Curseforge](/curseforge/) - [Discord](/discord/) - [YouTube](/youtube/)
+[Curseforge] - [Discord] - [YouTube] - [Github]
 
 <br/>
 
@@ -46,3 +46,7 @@ nav_order: 1
 [Chinese Festivals Docs]: /chinese-festivals/
 [Orbis Origins X Mermaids]: /mermaids/compatibilities/orbis-origins/curseforge/
 [Orbis Origins X Mermaids Docs]: /mermaids/compatibilities/orbis-origins/
+[Curseforge]: /curseforge/
+[Discord]: /discord/
+[YouTube]: /youtube/
+[Github]: /github/
