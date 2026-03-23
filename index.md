@@ -24,6 +24,10 @@ nav_order: 1
 
 <br/>
 
+[Curseforge](/curseforge/) - [Discord](/discord/) - [YouTube](/youtube/)
+
+<br/>
+
 <span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/81231ba0-dc7e-4469-904b-00a66a9ceae6/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
 <span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/919ae0ff-8e16-4ed1-9f1a-986acad4ae11/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Marriage Mod with History Img" width="920" height="340"></span>
 <span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/8d026893-1b56-43e1-ab32-1d6540561f26/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Chinese Festival Mod with History Img" width="920" height="340"></span>
