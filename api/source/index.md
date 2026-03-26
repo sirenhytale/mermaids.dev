@@ -7,6 +7,7 @@ permalink: /api/source-code/
 nav_order: 3
 ---
 
+### Source code for Mermaids API ([Github link](/api/source-code/source/)):
 ```java
 public class MermaidsAPI {
 
