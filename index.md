@@ -24,15 +24,11 @@ nav_order: 1
 
 <br/>
 
-[Curseforge] - [Discord] - [YouTube] - [Github]
+[Curseforge] - [Discord] - [YouTube] - [GitHub]
 
 <br/>
 
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/81231ba0-dc7e-4469-904b-00a66a9ceae6/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/919ae0ff-8e16-4ed1-9f1a-986acad4ae11/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Marriage Mod with History Img" width="920" height="340"></span>
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/8d026893-1b56-43e1-ab32-1d6540561f26/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Chinese Festival Mod with History Img" width="920" height="340"></span>
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/769d87c4-8635-4e9e-8e12-70cb42877593/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Orbis Origins X Mermaids Mod with History Img" width="920" height="340"></span>
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/1a6ffbd7-ec24-48ea-b7a5-288c143daa78/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Siren's Commands Mod with History Img" width="920" height="340"></span>
+<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/developer/38165fce-ca52-4c35-8cf5-96ff77c293e2/card.svg?theme=dark&layout=history&size=lg&dark=true" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>
 
 [Siren]: /curseforge/
 [Mermaids]: /mermaids/curseforge/
@@ -49,4 +45,4 @@ nav_order: 1
 [Curseforge]: /curseforge/
 [Discord]: /discord/
 [YouTube]: /youtube/
-[Github]: /github/
+[GitHub]: /github/
