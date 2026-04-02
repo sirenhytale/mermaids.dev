@@ -8,11 +8,11 @@ nav_order: 2
 
 ### Welcome to the Official [Mermaids] Mod Wiki!
 
-Ever wanted to be a Mermaid? Now you can with Mermaids, this plugin allows the user to become a Mermaid in water! Which gives the player increased movement speed, water breathing, night vision, and more while swimming underwater throughout seas, oceans, and rivers.
+Ever wanted to be a Mermaid? Now you can with Mermaids, this mod allows the user to become a Mermaid in water! Which will give the player increased movement speed, water breathing, night vision, and more while swimming underwater throughout the seas, oceans, and rivers.
 
 #### Features:
 - Works in Multiplayer.
-- Supports compatability with 5+ mod.
+- Compatibility support with 9+ mod.
 - Grow a Mermaid tail and keep your cosmetics.
 - Breathe underwater with increased swim speed.
 - Move slower on land as a mermaid.

@@ -21,6 +21,8 @@ nav_order: 1
     - [Siren's Commands Docs]
 - [Orbis Origins X Mermaids]
     - [Orbis Origins X Mermaids Docs]
+- [Hytale Insights]
+  - [Hytale Insights Docs]
 
 <br/>
 
@@ -42,6 +44,8 @@ nav_order: 1
 [Chinese Festivals Docs]: /chinese-festivals/
 [Orbis Origins X Mermaids]: /mermaids/compatibilities/orbis-origins/curseforge/
 [Orbis Origins X Mermaids Docs]: /mermaids/compatibilities/orbis-origins/
+[Hytale Insights]: /hytale-insights/curseforge/
+[Hytale Insights Docs]: /hytale-insights/
 [Curseforge]: /curseforge/
 [Discord]: /discord/
 [YouTube]: /youtube/
