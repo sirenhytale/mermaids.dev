@@ -3,7 +3,7 @@ title: About Siren
 description: About Siren, the creator of the Hytale mods--Mermaids, Marriage, and more
 layout: about
 permalink: /about-siren/
-nav_order: 7
+nav_order: 8
 ---
 
 ## About Siren
@@ -12,7 +12,7 @@ Hello, I am Siren--creator of Mermaids mod--a Hytale developer. A couple of mont
 
 #### Socials:
 
-[Curseforge] - [Discord] - [YouTube] - [Github]
+[Curseforge] - [Discord] - [YouTube] - [GitHub]
 
 * * *
 
@@ -25,4 +25,4 @@ You can use my Hytale Creator Code at checkout: <strong>SIREN</strong>
 [Curseforge]: /curseforge/
 [Discord]: /discord/
 [YouTube]: /youtube/
-[Github]: /github/
+[GitHub]: /github/
