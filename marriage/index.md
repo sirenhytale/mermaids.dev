@@ -10,7 +10,7 @@ nav_order: 4
 
 Ever wanted players to get Married? Now you can with Marriage, this plugin allows players to marry other players!
 
-<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/919ae0ff-8e16-4ed1-9f1a-986acad4ae11/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Marriage Mod with History Img" width="920" height="340"></span>
+[<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/919ae0ff-8e16-4ed1-9f1a-986acad4ae11/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Marriage Mod with History Img" width="920" height="340"></span>](https://hstats.dev/mods/919ae0ff-8e16-4ed1-9f1a-986acad4ae11)
 
 { IN DEVELOPMENT }
 
