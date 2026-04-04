@@ -22,6 +22,7 @@ For more information, check out the Mermaids [config page].
 3. Set `"Mermaid-Only-In-Water"` to `false` if you want the mermaid species player to be a mermaid on land.
 
 ### Commands added:
+
 | Command:                                                  | Description:                                                                                                                               | Permission:                                 |
 |:----------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------|
 | /mermaids admin orbisorigins                              | The Orbis Origins Compatibility command line. Will only be visiable when enabled with Orbis Origins mod.                                   | mermaids.admin.orbisorigins                 |
@@ -29,6 +30,7 @@ For more information, check out the Mermaids [config page].
 | /mermaids admin orbisorigins onlyinwater [true/false]     | As a mermaid species, you will only have a Mermaid tail while in water.                                                                    | mermaids.admin.orbisorigins.onlyinwater     |
 
 ### Permissions:
+
 | Permission:                                 | Description:                                                                                                               |
 |:--------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
 | mermaids.admin.orbisorigins                 | Allows the player to use the command /mermaids admin orbisorigins command line.                                            |
