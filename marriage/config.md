@@ -9,7 +9,7 @@ nav_order: 2
 
 Last updated for Config Version 3 and Marriage v1.2.2.
 
-| Config Name:                   | Default Value:                                     | Description:                                                                                |
+| Variable Name:                   | Default Value:                                     | Description:                                                                                |
 |:-------------------------------|:---------------------------------------------------|:--------------------------------------------------------------------------------------------|
 | "Config-Information"           | A long string that tells you to come to this site. | Information about how to find stuff related to the config.                                  |
 | "ConfigVersion"                | 3                                                  | Current Version when you have loaded for the plugin.                                        |

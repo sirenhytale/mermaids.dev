@@ -7,14 +7,16 @@ permalink: /mermaids/config/
 nav_order: 2
 ---
 
-#### This is the default config values and descriptions for config version 12.
+#### Mermaids Config.
+This is the default config values and descriptions for the Mermaids config version 13,
+found in the path `mods/Siren_Mermaids/Config.json`.
 
-| Config Name:                                 | Default Value:                                                              | Description:                                                                                                                                                                          |
+| Variable Name:                                 | Default Value:                                                              | Description:                                                                                                                                                                          |
 |:---------------------------------------------|:----------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | "Config-Information"                         | A long string that tells you to come to this site.                          | Information about how to find stuff related to the config.                                                                                                                            |
-| "ConfigVersion"                              | 12                                                                          | Current Version when you have loaded for the plugin.                                                                                                                                  |
+| "ConfigVersion"                              | 13                                                                          | Current Version when you have loaded for the plugin.                                                                                                                                  |
 | "PluginName"                                 | "Mermaids"                                                                  | Plugin name.                                                                                                                                                                          |
-| "Version"                                    | "2.1.0"                                                                     | Version of the last ran mod jar.                                                                                                                                                      |
+| "Version"                                    | "2.2.0"                                                                     | Version of the last ran mod jar.                                                                                                                                                      |
 | "Website"                                    | "https://www.mermaids.dev/mermaids/"                                        | Official website for the Mermaids mod.                                                                                                                                                |
 | "Download-Site"                              | "https://www.curseforge.com/hytale/mods/mermaids"                           | Website to download this mod, check for updates, and information.                                                                                                                     |
 | "Enable-Generic-Console-Logs"                | false                                                                       | Send console logs for majority of mermaid actions: transforming and modifying settings.                                                                                               |
@@ -35,3 +37,25 @@ nav_order: 2
 | "KeybladesReimagined-By:TaHie-Compatibility" | true                                                                        | Compatibility with the [Keyblades Reimagined](https://www.curseforge.com/hytale/mods/keyblades-reimagined) Mod, see [Compatibilities](/mermaids/compatibilities/) page for more info. |
 | "New-Version-Message"                        | true                                                                        | When Mermaids mod version is outdated, send a message to OPed players when they join.                                                                                                 |
 | "DebugMode"                                  | false                                                                       | Run the plugin in debug mode to get alerts about most actions of the plugin.                                                                                                          |
+
+<br/>
+
+* * *
+
+<br/>
+
+#### Mermaids Orbis Origins Config
+This is the default config values and descriptions for the Mermaids Orbis Origins config version 1,
+found in the path `mods/Siren_Mermaids/Compatibility/OrbisOrigins.json`.
+
+| Variable Name:                                   | Default Value:                                                                                | Description:                                                                                           |
+|:-------------------------------------------------|:----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
+| "Config-Name"                                    | "Orbis Origins Compatibility"                                                                 | The name given to this config file.                                                                    |
+| "Config-Description"                             | "This config file allows the user to modify compatibility issues with the Orbis Origins mod." | Description of what this config can modify.                                                            |
+| "Config-Information"                             | A long string that tells you to come to this site.                                            | Information about how to find stuff related to the config.                                             |
+| "ConfigVersion"                                  | 1                                                                                             | Current Version when you have loaded for the plugin.                                                   |
+| "Enable-Orbis-Origins-Compatibility"             | false                                                                                         | Toggle for the Mermaids mod to add a brand new mermaids species to the Orbis Origins mod.              |
+| "Description-Enable-Orbis-Origins-Compatibility" | A description of what the "Enable-Orbis-Origins-Compatibility" does.                          | A description of what another variable does.                                                           |
+| "Default-Mermaids-Content"                       | false                                                                                         | Toggle the Mermaids mod content. If false, you can only transform into a Mermaid as a mermaid species. |
+| "Description-Default-Mermaids-Content"           | A description of what the "Default-Mermaids-Content" does.                                    | A description of what another variable does.                                                           |
+| "Mermaid-Only-In-Water"                          | true                                                                                          | When the player is a mermaid species, they will only have a Mermaid tail while in water.               |

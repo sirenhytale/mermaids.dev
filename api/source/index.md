@@ -72,7 +72,7 @@ public class MermaidsAPI {
     public static void setForcedMermaid(Store<EntityStore> store, Ref<EntityStore> ref, boolean forcedMermaid){
         MermaidSettingsComponent mermaidSettings = store.getComponent(ref, MermaidSettingsComponent.getComponentType());
         if(mermaidSettings == null){
-            Mermaids.LOGGER.atSevere().log("ERROR: isForcedMermaid: Mermaid Settings Component is null for MermaidsAPI getMermaid -- doing nothing");
+            Mermaids.LOGGER.atSevere().log("ERROR: setForcedMermaid: Mermaid Settings Component is null for MermaidsAPI getMermaid -- doing nothing");
         }else{
             mermaidSettings.setForcedMermaid(forcedMermaid);
         }
@@ -112,39 +112,6 @@ public class MermaidsAPI {
      */
     public static void setForcedMermaidOnlyInWater(boolean forcedOnlyInWater){
         Mermaids.getConfig().get().setForceMermaidOnlyInWater(forcedOnlyInWater);
-    }
-
-    /**
-     * Check to see if the reference is forced to be a mermaid for the Orbis Origin Mod.
-     *
-     * @param  store  The entity store, store
-     * @param  ref  The entity store, reference
-     * @return  boolean of rather the reference is forced to be a mermaid
-     */
-    public static boolean isForcedMermaidOrbisOrigin(Store<EntityStore> store, Ref<EntityStore> ref){
-        MermaidSettingsComponent mermaidSettings = store.getComponent(ref, MermaidSettingsComponent.getComponentType());
-        if(mermaidSettings == null){
-            Mermaids.LOGGER.atSevere().log("ERROR: isForcedMermaidOrbisOrigin: Mermaid Settings Component is null for MermaidsAPI getMermaid -- returning false");
-            return false;
-        }else{
-            return mermaidSettings.isForcedMermaidOrbisOrigin();
-        }
-    }
-
-    /**
-     * Force the reference to be / not be a mermaid for the Orbis Origin Mod.
-     *
-     * @param  store  The entity store, store
-     * @param  ref  The entity store, reference
-     * @param  forcedMermaid  rather to force to (not) be a mermaid
-     */
-    public static void setForcedMermaidOrbisOrigin(Store<EntityStore> store, Ref<EntityStore> ref, boolean forcedMermaid){
-        MermaidSettingsComponent mermaidSettings = store.getComponent(ref, MermaidSettingsComponent.getComponentType());
-        if(mermaidSettings == null){
-            Mermaids.LOGGER.atSevere().log("ERROR: isForcedMermaidOrbisOrigin: Mermaid Settings Component is null for MermaidsAPI getMermaid -- doing nothing");
-        }else{
-            mermaidSettings.setForcedMermaidOrbisOrigin(forcedMermaid);
-        }
     }
 }
 ```
