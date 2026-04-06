@@ -4,7 +4,7 @@ description: Mermaids Mod - Orbis Origins Compatibility
 parent: Mod Compatibilities
 layout: page
 permalink: /mermaids/compatibilities/orbis-origins/
-nav_order: 1
+nav_order: 2
 ---
 
 ## About the [Orbis Origins] Compatibility Expansion:
@@ -13,7 +13,8 @@ The Mermaids mod will add a brand-new mermaid species into Orbis Origins that th
 This Mermaid species will use my Mermaids code to make the species be more of a Mermaid.
 
 ### How to get started?
-Head over to the Mermaids Orbis Origins config file which can be found at `mods/Siren_Mermaids/Compatibility/OrbisOrigins.json`.
+First make sure you have Orbis Origins installed on your world or server.
+Next, head over to the Mermaids Orbis Origins config file which can be found at `mods/Siren_Mermaids/Compatibility/OrbisOrigins.json`.
 
 For more information, check out the Mermaids [config page].
 

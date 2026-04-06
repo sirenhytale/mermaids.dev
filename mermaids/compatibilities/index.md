@@ -28,3 +28,6 @@ nav_order: 6
   - Trident will give increased movement speed underwater.
 - [Keyblades Reimagined](https://www.curseforge.com/hytale/mods/keyblades-reimagined) By: [TaHie](https://www.curseforge.com/members/tahie/projects)
   - Some keyblades (Crabclaw for now) will give increased movement speed underwater.
+- [Endless Leveling](https://www.curseforge.com/hytale/mods/endlessleveling) By: [Airijko](https://www.curseforge.com/members/airijko/projects)
+  - Adds a custom Mermaid race to Endless Leveling with 10 variation of the mermaid race.
+  - How to enable compatibility can be [found here](/mermaids/compatibilities/endless-leveling/).

@@ -59,3 +59,25 @@ found in the path `mods/Siren_Mermaids/Compatibility/OrbisOrigins.json`.
 | "Default-Mermaids-Content"                       | false                                                                                         | Toggle the Mermaids mod content. If false, you can only transform into a Mermaid as a mermaid species. |
 | "Description-Default-Mermaids-Content"           | A description of what the "Default-Mermaids-Content" does.                                    | A description of what another variable does.                                                           |
 | "Mermaid-Only-In-Water"                          | true                                                                                          | When the player is a mermaid species, they will only have a Mermaid tail while in water.               |
+
+<br/>
+
+* * *
+
+<br/>
+
+#### Mermaids Endless Leveling Config
+This is the default config values and descriptions for the Mermaids Endless Leveling config version 1,
+found in the path `mods/Siren_Mermaids/Compatibility/EndlessLeveling.json`.
+
+| Variable Name:                                      | Default Value:                                                                                   | Description:                                                                                           |
+|:----------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|
+| "Config-Name"                                       | "Endless Leveling Compatibility"                                                                 | The name given to this config file.                                                                    |
+| "Config-Description"                                | "This config file allows the user to modify compatibility issues with the Endless Leveling mod." | Description of what this config can modify.                                                            |
+| "Config-Information"                                | A long string that tells you to come to this site.                                               | Information about how to find stuff related to the config.                                             |
+| "ConfigVersion"                                     | 1                                                                                                | Current Version when you have loaded for the plugin.                                                   |
+| "Enable-Endless-Leveling-Compatibility"             | false                                                                                            | Toggle for the Mermaids mod will add a brand new mermaid race to Endless Leveling.                     |
+| "Description-Enable-Endless-Leveling-Compatibility" | A description of what the "Enable-Endless-Leveling-Compatibility" does.                          | A description of what another variable does.                                                           |
+| "Default-Mermaids-Content"                          | false                                                                                            | Toggle the Mermaids mod content. If false, you can only transform into a Mermaid as a mermaid species. |
+| "Description-Default-Mermaids-Content"              | A description of what the "Default-Mermaids-Content" does.                                       | A description of what another variable does.                                                           |
+| "Mermaid-Only-In-Water"                             | true                                                                                             | When the player is a mermaid race, they will only have a Mermaid tail while in water.                  |
