@@ -10,7 +10,7 @@ nav_order: 1
 ## About the [Endless Leveling] Compatibility Addon:
 
 The Mermaids mod will add a brand-new mermaid race into Endless Leveling with a total of 10 variations of the mermaids race.
-This Mermaid species will use my Mermaids code to make the species be more of a Mermaid.
+The Mermaid races will use my Mermaids code to make the race behave more similar to a mermaid.
 
 ### How to get started?
 First make sure you have Endless Leveling installed on your world or server.
