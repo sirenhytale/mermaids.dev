@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 #### Mermaids Config.
-This is the default config values and descriptions for the Mermaids config version 13,
+This is the default config values and descriptions for the Mermaids config version 14,
 found in the path `mods/Siren_Mermaids/Config.json`.
 
 | Variable Name:                               | Default Value:                                                              | Description:                                                                                                                                                                          |
@@ -16,7 +16,7 @@ found in the path `mods/Siren_Mermaids/Config.json`.
 | "Config-Information"                         | A long string that tells you to come to this site.                          | Information about how to find stuff related to the config.                                                                                                                            |
 | "ConfigVersion"                              | 14                                                                          | Current Version when you have loaded for the plugin.                                                                                                                                  |
 | "PluginName"                                 | "Mermaids"                                                                  | Plugin name.                                                                                                                                                                          |
-| "Version"                                    | "2.3.3"                                                                     | Version of the last ran mod jar.                                                                                                                                                      |
+| "Version"                                    | "2.4.2"                                                                     | Version of the last ran mod jar.                                                                                                                                                      |
 | "Website"                                    | "https://www.mermaids.dev/mermaids/"                                        | Official website for the Mermaids mod.                                                                                                                                                |
 | "Download-Site"                              | "https://www.curseforge.com/hytale/mods/mermaids"                           | Website to download this mod, check for updates, and information.                                                                                                                     |
 | "Enable-Generic-Console-Logs"                | false                                                                       | Send console logs for majority of mermaid actions: transforming and modifying settings.                                                                                               |
