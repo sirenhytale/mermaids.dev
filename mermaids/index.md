@@ -26,9 +26,21 @@ Ever wanted to be a Mermaid? Now you can with Mermaids, this mod allows the play
 
 [YouTube Trailer] showing off features.
 
-[<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/81231ba0-dc7e-4469-904b-00a66a9ceae6/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>](https://hstats.dev/mods/81231ba0-dc7e-4469-904b-00a66a9ceae6)
+[<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/81231ba0-dc7e-4469-904b-00a66a9ceae6/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Mermaids Mod with History Img" width="920" height="340"></span>](/mermaids/hstats/)
 
 { WEBPAGE IN DEVELOPMENT }
 
+* * *
+
+#### All platforms the Mermaids mod is uploaded onto:
+- [Curseforge]
+- [Modtale]
+- [Modifold]
+- [Orbis Place]
+
 [Mermaids]: /mermaids/curseforge/
 [YouTube Trailer]: https://www.youtube.com/watch?v=BiXuvNlxMnk
+[Curseforge]: /mermaids/curseforge/
+[Modtale]: /mermaids/modtale/
+[Modifold]: /mermaids/modifold/
+[Orbis Place]: /mermaids/orbis-place/

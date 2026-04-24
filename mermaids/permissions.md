@@ -9,9 +9,10 @@ nav_order: 3
 
 | Permission:                                    | Description:                                                                                                               |
 |:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| mermaids                                       | Allows the player to use the main Mermaids Mod command line.                                                               |
 | mermaids.transform                             | Allows the player to mermaid transform when this option is enabled in config.                                              |
-| mermaids.ui                                    | Allows the player to use the command /mermaid and /mermaids ui.                                                            |
 | mermaids.toggle                                | Allows the player to use the command /mermaids toggle [true/false].                                                        |
+| mermaids.glow                                  | Allows the player to use the command /mermaids glow [true/false].                                                          |
 | mermaids.debug                                 | Allows the player to use the command /mermaids debug command line.                                                         |
 | mermaids.debug.mermaidring                     | Allows the player to use the command /mermaids debug givemermaidring.                                                      |
 | mermaids.admin                                 | Allows the player to use the command /mermaids admin command line.                                                         |
